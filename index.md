@@ -7,3 +7,32 @@ I added `<H1>`, `<H4>`, and `<H6>` heading text to this markdown file, for me to
 
 
 ![An image of cute white-orange cat staring on something](https://i.pinimg.com/736x/6a/43/81/6a43810fd68d54e80aeb739eb304d82e.jpg)
+
+
+Adding Code to markdown
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+const res1 = fetch(api url);
+```
+
+``` c
+typedef struct Markdown{
+  char syntax[50];
+  struct Markdown* next;
+} Markdown;
+```
+
+``` css
+
+section.markdown {
+  font-family: "Poppins", sans-serif;
+  font-size: 1em;
+  color: lime;
+}
+
+```
